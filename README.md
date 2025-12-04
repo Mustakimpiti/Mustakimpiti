@@ -357,7 +357,7 @@ Applications
 A comprehensive mobile solution built with Flutter, delivering seamless user experience across Android and iOS platforms with real-time features and offline capabilities.
 
 **Tech Stack:**  
-`Flutter` `Dart` `Firebase` `REST API`
+`Flutter` `Dart` `REST API`
 
 **Features:**
 - Cross-platform compatibility
