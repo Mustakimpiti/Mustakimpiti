@@ -82,28 +82,6 @@ const pitiMustatkim = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mustakimpiti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustakimpiti&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakimpiti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mustakimpiti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustakimpiti&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🌟 Featured Live Projects
 
 <div align="center">
@@ -125,15 +103,15 @@ const pitiMustatkim = {
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="80" height="80" alt="Backend"/>
-      <h3>⚙️ WBVF Backend</h3>
-      <p><strong>Backend API System</strong></p>
-      <p>Robust backend infrastructure powering the WBVF mobile application</p>
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" height="80" alt="Business"/>
+      <h3>💼 Baaz Advertising</h3>
+      <p><strong>Digital Marketing Platform</strong></p>
+      <p>Complete advertising and marketing solutions website with enterprise features</p>
       <p>
-        <code>Laravel</code> <code>PHP</code> <code>MySQL</code>
+        <code>PHP</code> <code>JavaScript</code> <code>MySQL</code>
       </p>
-      <a href="https://github.com/Mustakimpiti/wbvf_app_backend">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+      <a href="https://baazadvertising.com/">
+        <img src="https://img.shields.io/badge/Visit-Live%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
       </a>
     </td>
   </tr>
@@ -141,6 +119,7 @@ const pitiMustatkim = {
 
 ### 🌐 Web Applications
 
+<table>
 <table>
   <tr>
     <td align="center" width="50%">
@@ -156,20 +135,6 @@ const pitiMustatkim = {
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" height="80" alt="Business"/>
-      <h3>💼 Baaz Advertising</h3>
-      <p><strong>Digital Marketing Platform</strong></p>
-      <p>Complete advertising and marketing solutions website</p>
-      <p>
-        <code>PHP</code> <code>JavaScript</code> <code>MySQL</code>
-      </p>
-      <a href="https://baazadvertising.com/">
-        <img src="https://img.shields.io/badge/Visit-Live%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="80" height="80" alt="Tech"/>
       <h3>🖥️ LRD Chips Tech Solutions</h3>
       <p><strong>Technology Services Website</strong></p>
@@ -181,6 +146,8 @@ const pitiMustatkim = {
         <img src="https://img.shields.io/badge/Visit-Live%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="https://cdn-icons-png.flaticon.com/512/2913/2913133.png" width="80" height="80" alt="Healthcare"/>
       <h3>🏥 Tahirah PhysioCare</h3>
@@ -192,6 +159,8 @@ const pitiMustatkim = {
       <a href="https://lrdchips.com/">
         <img src="https://img.shields.io/badge/Visit-Live%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
       </a>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
