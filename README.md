@@ -364,23 +364,6 @@ Best Practices
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mustakimpiti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E3192&icon_color=1BFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Mustakimpiti&theme=radical&hide_border=true&background=0D1117&ring=2E3192&fire=D4145A&currStreakLabel=1BFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mustakimpiti&theme=react-dark&bg_color=0D1117&color=1BFFFF&line=2E3192&point=D4145A&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakimpiti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E3192" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
