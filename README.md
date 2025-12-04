@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+.NET;Mobile+%26+Web+Solutions;Clean+Code+Advocate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+.NET;Mobile+%26+Web+Solutions;" alt="Typing Animation" />
 </p>
 
 <p align="center">
