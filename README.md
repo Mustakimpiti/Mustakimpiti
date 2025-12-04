@@ -216,7 +216,7 @@ A comprehensive mobile solution built with Flutter, delivering seamless user exp
 Enterprise-level web application for digital marketing and advertising services, featuring comprehensive campaign management and analytics dashboard.
 
 **Tech Stack:**  
-`PHP` `JavaScript` `MySQL` `Bootstrap`
+`PHP` `JavaScript` `Bootstrap`
 
 **Features:**
 - Campaign management system
@@ -292,12 +292,11 @@ Full-featured enterprise HR management system with comprehensive modules for emp
 `Laravel` `PHP` `MySQL` `Blade Templates` `RESTful API`
 
 **Key Modules:**
-- 👤 Employee Management & Onboarding
-- ⏰ Attendance & Leave Tracking
-- 💰 Payroll & Compensation
-- 📊 Performance Management
-- 📈 Analytics & Reporting Dashboard
-- 🔐 Role-based Access Control
+- Employee Management & Onboarding
+- Payroll & Compensation
+- Performance Management
+- Analytics & Reporting Dashboard
+- Role-based Access Control
 
 **Features:**
 - Real-time attendance tracking
