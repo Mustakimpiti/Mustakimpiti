@@ -23,7 +23,7 @@ Full Stack Developer with expertise in building **enterprise-grade mobile and we
 ```typescript
 const developer = {
     name: "Piti Mustakim",
-    location: "Ahmedabad, Gujarat, India",
+    location: "Bharuch, Gujarat, India",
     role: "Full Stack Developer",
     
     expertise: {
@@ -321,6 +321,8 @@ Full-featured enterprise HR management system with comprehensive modules for emp
 
 ## 💡 Core Competencies
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -361,6 +363,8 @@ Best Practices
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
