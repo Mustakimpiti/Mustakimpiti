@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+.NET;Mobile+%26+Web+Solutions;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+.NET;Mobile+%26+Web+Solutions;MCA+Top+5+%7C+BCA+Rank+1" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with expertise in building **enterprise-grade mobile and web applications**. I specialize in creating scalable, performant solutions using modern technologies and best practices.
+Full Stack Developer with expertise in building **enterprise-grade mobile and web applications**. I specialize in creating scalable, performant solutions using modern technologies and best practices. Academic excellence combined with hands-on experience at MNC level.
 
 ```typescript
 const developer = {
@@ -33,6 +33,12 @@ const developer = {
         databases: ["MySQL", "SQL Server", "SQLite", "Database Optimization"]
     },
     
+    achievements: {
+        mca: "Top 5 out of 217 students",
+        bca: "Rank 1 with Gold Medal",
+        internship: "Campus Placement at Mastek (MNC)"
+    },
+    
     focus: [
         "Scalable Architecture",
         "Clean Code Principles",
@@ -40,7 +46,7 @@ const developer = {
         "User-Centric Design"
     ],
     
-    currentWork: "Building enterprise solutions & open to collaboration",
+    currentWork: "Full Stack Developer at Baaz Advertising",
     contact: "mustakimpiti@gmail.com"
 };
 ```
@@ -52,6 +58,166 @@ const developer = {
 - Collaborating on innovative tech solutions
 
 📫 **Get In Touch:** [mustakimpiti@gmail.com](mailto:mustakimpiti@gmail.com)
+
+---
+
+## 🎓 Education & Academic Excellence
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Master of Computer Applications (MCA)
+**CHARUSAT University**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40" alt="Graduation"/>
+
+**Achievement:** Top 5 Student out of 217
+
+Demonstrated exceptional academic performance and technical proficiency throughout the master's program, consistently ranking among the top performers in a highly competitive batch.
+
+**Key Highlights:**
+- Advanced software development methodologies
+- Enterprise application architecture
+- Database management and optimization
+- Research-oriented projects
+
+</td>
+<td width="50%">
+
+### 🥇 Bachelor of Computer Applications (BCA)
+**Gold Medalist - Rank 1**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="40" height="40" alt="Medal"/>
+
+**Achievement:** First Rank with Gold Medal
+
+Secured the prestigious first position in the entire batch, receiving the Gold Medal for outstanding academic excellence and consistent top performance throughout the undergraduate program.
+
+**Key Highlights:**
+- Comprehensive programming foundation
+- Software engineering principles
+- Web and mobile development
+- Gold Medal recognition
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Current Position
+
+<table>
+<tr>
+<td>
+
+#### Full Stack Developer
+**Baaz Advertising | Vadodara, Gujarat**  
+*Current Role*
+
+Working on enterprise-level digital solutions and managing full-stack development projects for diverse clients in the advertising and marketing domain.
+
+**Responsibilities & Achievements:**
+- Developing and maintaining cross-platform mobile applications using Flutter
+- Building scalable backend systems with Laravel and .NET
+- Managing database architecture and optimization
+- Leading end-to-end project implementation
+- Creating responsive web applications and digital solutions
+- Implementing RESTful APIs and third-party integrations
+
+**Notable Projects:**
+- WBVF Mobile App (Flutter - Cross-platform)
+- HRMS System (Laravel - Enterprise Solution)
+- Multiple client websites and web applications
+- Digital marketing platforms
+
+**Tech Stack in Use:**  
+`Flutter` `Laravel` `PHP` `.NET` `MySQL` `JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+</table>
+
+### 🎯 Internship Experience
+
+<table>
+<tr>
+<td>
+
+#### Software Development Intern
+**Mastek Ltd. | MNC**  
+*Campus Placement*
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="40" height="40" alt="Briefcase"/>
+
+Secured internship position through competitive campus placement at CHARUSAT University. Gained valuable hands-on experience in enterprise-level software development at a leading multinational corporation.
+
+**Key Learnings:**
+- Enterprise software development practices
+- Agile methodology and team collaboration
+- Code review and quality assurance
+- Industry-standard development workflows
+- Client interaction and requirement analysis
+- Professional development environment exposure
+
+**Skills Developed:**
+- Enterprise application development
+- Version control and collaboration tools
+- Professional coding standards
+- Project management practices
+- Team-based development workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="60" height="60" alt="Trophy"/>
+<br><br>
+<strong>Gold Medal</strong>
+<br><br>
+BCA Rank 1<br>
+Academic Excellence
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="60" height="60" alt="Star"/>
+<br><br>
+<strong>Top 5</strong>
+<br><br>
+MCA from 217 Students<br>
+CHARUSAT University
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" height="60" alt="Graduate"/>
+<br><br>
+<strong>Campus Placement</strong>
+<br><br>
+Mastek Ltd. (MNC)<br>
+Through CHARUSAT
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" height="60" alt="Laptop"/>
+<br><br>
+<strong>Live Projects</strong>
+<br><br>
+Multiple Production<br>
+Applications
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -389,8 +555,16 @@ Best Practices
 
 <br>
 
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mustakimpiti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E3192&icon_color=1BFFFF&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustakimpiti&theme=tokyonight&hide_border=true&background=0D1117&ring=2E3192&fire=D4145A&currStreakLabel=1BFFFF" alt="GitHub Streak" />
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=120&section=footer" />
 
-<sub>⭐️ Crafted with precision by [Piti Mustakim](https://github.com/Mustakimpiti)</sub>
+<sub>⭐️ From [Piti Mustakim](https://github.com/Mustakimpiti) | Gold Medalist | Top 5 MCA | Full Stack Developer</sub>
 
 </div>
