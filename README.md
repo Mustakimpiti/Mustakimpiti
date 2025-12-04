@@ -70,7 +70,7 @@ const developer = {
 ### 🏆 Master of Computer Applications (MCA)
 **CHARUSAT University**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40" height="40" alt="Graduation"/>
+<img src="https://img.shields.io/badge/Top-5%20out%20of%20217-2E3192?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Top 5"/>
 
 **Achievement:** Top 5 Student out of 217
 
@@ -86,9 +86,10 @@ Demonstrated exceptional academic performance and technical proficiency througho
 <td width="50%">
 
 ### 🥇 Bachelor of Computer Applications (BCA)
+**IQra BCA College, Bharuch**  
 **Gold Medalist - Rank 1**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="40" height="40" alt="Medal"/>
+<img src="https://img.shields.io/badge/Rank-1st-FFD700?style=for-the-badge&logo=medal&logoColor=white" alt="Rank 1"/>
 
 **Achievement:** First Rank with Gold Medal
 
@@ -149,9 +150,9 @@ Working on enterprise-level digital solutions and managing full-stack developmen
 
 #### Software Development Intern
 **Mastek Ltd. | MNC**  
-*Campus Placement*
+*Campus Placement - CHARUSAT University*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="40" height="40" alt="Briefcase"/>
+<img src="https://img.shields.io/badge/MNC-Campus%20Placement-FF5722?style=for-the-badge&logo=briefcase&logoColor=white" alt="Campus Placement"/>
 
 Secured internship position through competitive campus placement at CHARUSAT University. Gained valuable hands-on experience in enterprise-level software development at a leading multinational corporation.
 
@@ -183,32 +184,29 @@ Secured internship position through competitive campus placement at CHARUSAT Uni
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="60" height="60" alt="Trophy"/>
-<br><br>
+<h3>🏆</h3>
 <strong>Gold Medal</strong>
 <br><br>
 BCA Rank 1<br>
-Academic Excellence
+IQra BCA College<br>
+Bharuch
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="60" height="60" alt="Star"/>
-<br><br>
+<h3>⭐</h3>
 <strong>Top 5</strong>
 <br><br>
 MCA from 217 Students<br>
 CHARUSAT University
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" height="60" alt="Graduate"/>
-<br><br>
+<h3>🎓</h3>
 <strong>Campus Placement</strong>
 <br><br>
 Mastek Ltd. (MNC)<br>
 Through CHARUSAT
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" height="60" alt="Laptop"/>
-<br><br>
+<h3>💻</h3>
 <strong>Live Projects</strong>
 <br><br>
 Multiple Production<br>
@@ -491,8 +489,7 @@ Full-featured enterprise HR management system with comprehensive modules for emp
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60" height="60" alt="Mobile"/>
-<br><br>
+<h3>📱</h3>
 <strong>Mobile Development</strong>
 <br><br>
 Flutter & Native Android<br>
@@ -500,8 +497,7 @@ Cross-platform Solutions<br>
 Responsive UI/UX
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" height="60" alt="Web"/>
-<br><br>
+<h3>🌐</h3>
 <strong>Web Development</strong>
 <br><br>
 Full Stack Architecture<br>
@@ -509,8 +505,7 @@ RESTful APIs<br>
 Modern Web Technologies
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60" height="60" alt="Backend"/>
-<br><br>
+<h3>⚙️</h3>
 <strong>Backend Systems</strong>
 <br><br>
 Laravel & .NET<br>
@@ -518,8 +513,7 @@ Database Design<br>
 API Development
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" height="60" alt="Performance"/>
-<br><br>
+<h3>📈</h3>
 <strong>Optimization</strong>
 <br><br>
 Performance Tuning<br>
@@ -552,14 +546,6 @@ Best Practices
 ### 💭 Developer Quote
 
 **"Clean code always looks like it was written by someone who cares."** - *Robert C. Martin*
-
-<br>
-
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mustakimpiti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E3192&icon_color=1BFFFF&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustakimpiti&theme=tokyonight&hide_border=true&background=0D1117&ring=2E3192&fire=D4145A&currStreakLabel=1BFFFF" alt="GitHub Streak" />
 
 <br>
 
