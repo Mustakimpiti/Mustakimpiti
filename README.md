@@ -385,10 +385,6 @@ Best Practices
 
 ### 💭 Developer Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote" />
-
-<br><br>
-
 **"Clean code always looks like it was written by someone who cares."** - *Robert C. Martin*
 
 <br>
